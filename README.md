@@ -25,11 +25,15 @@ cd frontend
 ```
 
 ```
+cd calculator
+```
+
+```
 npm install
 ```
 
 ```
-npm run server
+npm run serve
 ```
 Listen your port :8080
 
